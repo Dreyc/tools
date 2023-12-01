@@ -10,3 +10,20 @@ Projet de création de script pour faire une clean install d'un kali avec des ou
 - Password Cracking
 - Windows
 - Exploit
+
+## Conventions d'édition du fichier script
+
+- Création de nouvelles catégories
+```
+##############################
+#           OSINT            #
+##############################
+```
+- Création d'une sous catégorie
+```
+# --- NAME ---
+
+# --- NAME ---
+```
+
+
