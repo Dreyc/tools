@@ -61,5 +61,13 @@ cd Lists
 
 cd ..
 
+##############################
+#           Others           #
+##############################
+mkdir Others
+cd Others
+
+cd ..
+
 cd ..
 echo "INSTALLATION DONE !"
