@@ -16,7 +16,7 @@ Projet de création de script pour faire une clean install d'un kali avec des ou
 - Création de nouvelles catégories
 ```
 ##############################
-#           OSINT            #
+#           NAME             #
 ##############################
 ```
 - Création d'une sous catégorie
