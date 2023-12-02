@@ -173,5 +173,9 @@ sudo apt install responder
 
 cd ..
 ##############################
+sudo apt-get install tree
+tree -d -L 2
+echo "[ INSTALLATION DONE ! ]"
 cd ..
-echo "INSTALLATION DONE !"
+
+
