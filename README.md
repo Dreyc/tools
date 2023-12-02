@@ -10,6 +10,7 @@ Projet de création de script pour faire une clean install d'un kali avec des ou
 - Password Cracking
 - Windows
 - Exploit
+- Dictionnary
 - Others
 
 ## Conventions d'édition du fichier script
