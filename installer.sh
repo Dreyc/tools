@@ -1,5 +1,8 @@
 #!/bin/bash
 
+sudo apt update
+sudo apt upgrade
+
 # Creation du dossier contenant les outils
 mkdir Tools
 cd Tools
