@@ -52,6 +52,9 @@ cd ..
 mkdir Scanning
 cd Scanning
 
+# ssh-audit
+git clone https://github.com/jtesta/ssh-audit.git
+
 cd ..
 # -- Scanning --
 # -- DoS --
@@ -83,6 +86,8 @@ git clone https://github.com/volatilityfoundation/volatility3.git
 cd volatility3
 pip3 install -r requirements.txt
 cd ..
+# BitLockerCrack
+git clone https://github.com/dev0p0/BitLockerCrack.git
 
 cd ..
 ##############################
