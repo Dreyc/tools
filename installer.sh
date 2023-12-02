@@ -68,8 +68,8 @@ cd ..
 ##############################
 #      Password Cracking     #
 ##############################
-mkdir Password Cracking
-cd Password Cracking
+mkdir Password_Cracking
+cd Password_Cracking
 
 cd ..
 ##############################
